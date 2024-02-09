@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="logo" title="Expert Notes" src="public/logo.png" width="10%" />
+    <img alt="logo" title="Expert Notes" src="public/logo.svg" width="10%" />
 </h3>
 
 <h1 align="center"># Expert Notes</h1>
@@ -17,7 +17,8 @@
 
 ## Project
 
-This project was undertaken during a Rockeseat event, where participants were tasked with building a React application from scratch in just 3 days.
+This project was undertaken during a [Rockeseat](https://www.rocketseat.com.br/) event, where participants were tasked with building a React application from scratch in just 3 days.
+The project idea was to build a web app that stores local notes that can be written or recorded. It is possible to create and delete notes.
 
 ### Project Overview
 This project provided a comprehensive hands-on experience with React development, covering fundamental concepts and advanced features within a short timeframe.
