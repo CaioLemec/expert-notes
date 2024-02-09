@@ -58,6 +58,7 @@ export function NewNoteCard({ onNoteCreated }: NewNoteCardProps) {
     speechRecognition = new SpeechRecognitionAPI();
 
     // Set SpeechRecognition properties
+    speechRecognition.lang = "en-US";
     speechRecognition.continuous = true;
     speechRecognition.maxAlternatives = 1;
     speechRecognition.interimResults = true;
